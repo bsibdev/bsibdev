@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brandon!  
 
-**Aspiring Systems Administrator** | Building Enterprise-Grade Solutions in Atlanta, GA  
+**Aspiring Systems Administrator** | Building Enterprise-Grade Solutions in Douglasville, GA  
 
 I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation. 
 Currently pursuing RHCSA certification.
