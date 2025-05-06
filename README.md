@@ -6,7 +6,7 @@ I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-
 Currently pursuing RHCSA certification (expected 06/2025).
 Built and currently managing a robust homelab using Proxmox and Unraid, mirroring real-world IT infrastructure.  
 
-Seeking roles with a path towards Systems Administration. [Resume](https://docs.google.com/document/d/1evXVP0ufh4jpolRt89MviZbOrNRhfl4tYEg8FooqqsM/edit?usp=sharing)
+Seeking roles with a path towards Systems Administration. [My resume](https://docs.google.com/document/d/1evXVP0ufh4jpolRt89MviZbOrNRhfl4tYEg8FooqqsM/edit?usp=sharing)
 
 ##  My Home Lab  
 
@@ -16,7 +16,7 @@ Seeking roles with a path towards Systems Administration. [Resume](https://docs.
 
 Check out my homelab repo for full documentation: [bsibdev/homelab](https://github.com/bsibdev/homelab)  
 
-![homelab-diagram_github-dark drawio](https://github.com/user-attachments/assets/b2a5ba83-4e28-45a8-b8e8-068319bd4bf1)
+![homelab-diagram_github-dark drawio](https://github.com/user-attachments/assets/da92fb07-722b-4b62-9e0e-cc046965dfa2)
 
 
 ## 🛠️ Skills  
