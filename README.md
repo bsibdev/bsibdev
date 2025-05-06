@@ -3,9 +3,7 @@
 **Aspiring Systems Administrator** | Building Enterprise-Grade Solutions in Atlanta, GA  
 
 I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation. 
-Currently pursuing RHCSA certification (expected 06/2025).
-Built and currently managing a robust homelab using Proxmox and Unraid, mirroring real-world IT infrastructure.  
-
+Currently pursuing RHCSA certification.
 Seeking roles with a path towards Systems Administration. [My resume](https://docs.google.com/document/d/1evXVP0ufh4jpolRt89MviZbOrNRhfl4tYEg8FooqqsM/edit?usp=sharing)
 
 ##  My Home Lab  
