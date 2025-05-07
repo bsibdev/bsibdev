@@ -9,7 +9,7 @@ Seeking roles with a path towards Systems Administration. [My resume](https://do
 - **Virtualization**: Proxmox node hosting 4 VMs (diffusion model processing server, personal cloud gaming server, RHEL 9 Lab enivronment, Windows Server 2019 Lab environment). Using PCI passthrough with IOMMU groups to grant VMs direct hardware access to PCIe devices as needed.
 
 - **Storage**: 48TB Unraid NAS with containerized apps, serving as shared storage and backup target for multiple machines via nfs shares.  
-- **Networking**: Tailscale VPN configured for secure high-performance remote connections between devices.  
+- **Networking**: 2.5GbE, Tailscale VPN configured for secure high-performance remote connections between devices.  
 
 Check out my homelab repo for full documentation: [bsibdev/homelab](https://github.com/bsibdev/homelab)  
 
