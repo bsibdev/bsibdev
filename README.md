@@ -37,9 +37,9 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 
 ## 📫 Get in Touch  
 
-Please reach out for:
+Please reach out if you'd like to discuss:
 - Remote or Atlanta based job opportunities (Help Desk Technician, Junior Systems Administrator, etc).
-- Feedback on my home lab.
+- Feedback.
 - General advice on systems administration.
 
 - 📧 Email: Brandonsibley2160@gmail.com  
