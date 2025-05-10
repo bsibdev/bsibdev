@@ -11,7 +11,7 @@ Seeking roles with a path towards System Administration. [My resume](https://doc
 - **Storage**: 48TB Unraid NAS with containerized apps, serving as shared storage and backup target for multiple machines via nfs shares.  
 - **Networking**: 2.5GbE, Tailscale VPN configured for secure high-performance remote connections between devices.  
 
-Check out my homelab repo for full documentation: [bsibdev/homelab](https://github.com/bsibdev/homelab)  ([Wiki](https://www.notion.so/Home-Lab-Wiki-1e69b3e0744e801ba6bedb01c1e6bb67?pvs=4)|[Roadmap](https://www.notion.so/1e59b3e0744e8060a732e9c81f00dc90?v=1e59b3e0744e817ea385000c8162d5bd&pvs=4))
+Check out my homelab repo for full documentation: [bsibdev/homelab](https://github.com/bsibdev/homelab)  ([Wiki](https://www.notion.so/Home-Lab-Wiki-1e69b3e0744e801ba6bedb01c1e6bb67?pvs=4) | [Roadmap](https://www.notion.so/1e59b3e0744e8060a732e9c81f00dc90?v=1e59b3e0744e817ea385000c8162d5bd&pvs=4))
 
 ![homelab-diagram_github-dark drawio](https://github.com/user-attachments/assets/da92fb07-722b-4b62-9e0e-cc046965dfa2)
 
