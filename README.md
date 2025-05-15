@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Brandon!  
 
 I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation. 
-Currently pursuing RHCSA certification.
-Seeking roles with a path towards System Administration. [My resume](https://docs.google.com/document/d/1evXVP0ufh4jpolRt89MviZbOrNRhfl4tYEg8FooqqsM/edit?usp=sharing)
+Currently pursuing RHCSA certification to deepen expertise.
+Looking to launch a career in Systems Administration. 
 
 ##  My Home Lab  
 
@@ -38,7 +38,7 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 ## 📫 Get in Touch  
 
 Please reach out if you'd like to discuss:
-- Remote or Atlanta based job opportunities (Help Desk Technician, Junior Systems Administrator, etc).
+- Remote or Atlanta based job opportunities (Help Desk Technician, Junior Systems Administrator, etc) [My resume](https://docs.google.com/document/d/1evXVP0ufh4jpolRt89MviZbOrNRhfl4tYEg8FooqqsM/edit?usp=sharing).
 - Feedback.
 - General advice on systems administration.
 
