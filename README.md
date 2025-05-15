@@ -38,7 +38,7 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 ## 📫 Get in Touch  
 
 Please reach out if you'd like to discuss:
-- Remote or Atlanta based job opportunities (Help Desk Technician, Junior Systems Administrator, etc) [My resume](https://docs.google.com/document/d/1evXVP0ufh4jpolRt89MviZbOrNRhfl4tYEg8FooqqsM/edit?usp=sharing).
+- Remote or Atlanta based job opportunities (Help Desk Technician, Junior Systems Administrator, etc) [My resume](https://docs.google.com/document/d/17leaXlGL2_ZEKIPg8WbtZPvVVIl2e5er8KJLCRB5Muw/edit?usp=sharing).
 - Feedback.
 - General advice on systems administration.
 
