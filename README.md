@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Brandon!  
 
-I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation. 
+I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation. Looking to launch a career in Systems Administration. 
 Currently pursuing RHCSA certification to deepen expertise.
-Looking to launch a career in Systems Administration. 
+
 
 ##  My Home Lab  
 
