@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Brandon!  
 
-I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation. Looking to launch a career in Systems Administration. 
-Currently pursuing RHCSA certification to deepen expertise.
+I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation.
 
 
 ##  My Home Lab  
 
-- **Virtualization**: Proxmox node hosting 4 VMs (diffusion model processing server, personal cloud gaming server, RHEL 9 Lab enivronment, Windows Server 2019 Lab environment). Using PCI passthrough with IOMMU groups to grant VMs direct hardware access to PCIe devices as needed.
+- **Virtualization**: Proxmox node hosting 4 VMs (ansible control node, AI server, cloud gaming server, RHEL 9 Lab enivronment, Windows Server 2019 Lab environment). Using PCI passthrough with IOMMU groups to grant VMs direct hardware access to PCIe devices as needed.
 
 - **Storage**: 48TB Unraid NAS with containerized apps, serving as shared storage and backup target for multiple machines via nfs shares.  
 - **Networking**: 2.5GbE, Tailscale VPN configured for secure high-performance remote connections between devices.  
@@ -22,8 +21,8 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 
 - **Virtualization**: Proxmox, Hyper-V, Docker
 - **System Administration**: RHEL 9, Windows Server 2019, Active Directory  
-- **Automation**: Bash, PowerShell, Ansible, AutoHotKey
-- **Networking**: Tailscale VPN, DNS, Firewalls
+- **Automation**: Bash, PowerShell, Ansible, AutoHotKey, Python
+- **Networking**: VPN, DNS, Firewalls
 - **Storage**: Unraid NAS, NFS, LVM
 - **Monitoring**: Cockpit, SFC, Event Viewer
 - **Documentation**: Draw.io, Notion, Microsoft365
@@ -39,10 +38,11 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 
 ## 📫 Get in Touch  
 
-Please reach out if you'd like to discuss:
-- Remote or Atlanta based job opportunities (Help Desk Technician, Junior Systems Administrator, etc) [My resume](https://docs.google.com/document/d/17leaXlGL2_ZEKIPg8WbtZPvVVIl2e5er8KJLCRB5Muw/edit?usp=sharing).
+Please reach out about:
+- Remote or Atlanta based job opportunities (mid/entry-level roles aligning with Systems Administration) [My resume](https://docs.google.com/document/d/17leaXlGL2_ZEKIPg8WbtZPvVVIl2e5er8KJLCRB5Muw/edit?usp=sharing).
 - Feedback.
-- General advice on systems administration.
+- General advice.
 
-- 📧 Email: Brandonsibley2160@gmail.com  
-- 🔗 LinkedIn: http://www.linkedin.com/in/brandon-sibley-0a564a273
+- 📧 Email: brandonsibley.it@gmail.com
+- 📞 Phone: (678) 466-0185 (Google Voice)
+- 🔗 LinkedIn: http://www.linkedin.com/in/brandon-s-sibley
