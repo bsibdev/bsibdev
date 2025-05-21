@@ -13,7 +13,9 @@ Currently pursuing RHCSA certification to deepen expertise.
 
 Check out my homelab repo for full documentation: [bsibdev/homelab](https://github.com/bsibdev/homelab)  ([Wiki](https://www.notion.so/Home-Lab-Wiki-1e69b3e0744e801ba6bedb01c1e6bb67?pvs=4) | [Roadmap](https://www.notion.so/1e59b3e0744e8060a732e9c81f00dc90?v=1e59b3e0744e817ea385000c8162d5bd&pvs=4))
 
-![homelab-diagram_github-dark drawio](https://private-user-images.githubusercontent.com/71753160/443274061-e0d99b0b-7921-4185-a41e-d0a5dba33095.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyODAxMzksIm5iZiI6MTc0NzI3OTgzOSwicGF0aCI6Ii83MTc1MzE2MC80NDMyNzQwNjEtZTBkOTliMGItNzkyMS00MTg1LWE0MWUtZDBhNWRiYTMzMDk1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDAzMzAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiOGM1OGZhZjliNzg1YTNiNTQ2NGYzYzBhNTQzYjJiNWVkYmI3MjNlNjAwZjNhYmQxYTY1MjE1ZTcxZWY0OGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tElG2ryuGLl1nMc64NcNuiK99IPlBGplCcnTBjXPf2M)
+
+![homelab-diagram_github-dark](https://github.com/user-attachments/assets/227ad700-5ec3-41e1-9201-ecd54c1f9820)
+
 
 
 ## 🛠️ Skills  
