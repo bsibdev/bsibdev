@@ -2,6 +2,13 @@
 
 I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-cmK0XgDh-T_XmK/view) tech enthusiast with a passion for Linux, virtualization, and automation.
 
+## 📂 Featured Projects  
+
+- **[Centralized System Dashboard](https://github.com/bsibdev/centralized-system-dashboard)**: Enterprise-grade setup with Proxmox, Unraid, and automation scripts. Full documentation included (diagram, wiki, roadmap).  
+- **[Homelab](https://github.com/bsibdev/homelab)**: Enterprise-grade setup with Proxmox, Unraid, and automation scripts. Full documentation included (diagram, wiki, roadmap).  
+- **[easycomfyui](https://github.com/bsibdev/easycomfyui)**: Simple install and launch for ComfyUI running on Ubuntu 24.04 with rocm for AMD GPUs. 
+- **[linux-scripts](https://github.com/bsibdev/linux-scripts)**
+- **[windows-scripts](https://github.com/bsibdev/windows-scripts)**
 
 ##  My Home Lab  
 
@@ -28,13 +35,6 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 - **Documentation**: Draw.io, Notion, Microsoft365
 
 ![Linux](https://img.shields.io/badge/Proxmox-Virtualization-E57000?logo=proxmox&logoColor=white&style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Container-blue) ![Ansible](https://img.shields.io/badge/Ansible-Automation-red)  
-
-## 📂 Featured Projects  
-
-- **[Homelab](https://github.com/bsibdev/homelab)**: Enterprise-grade setup with Proxmox, Unraid, and automation scripts. Full documentation included (diagram, wiki, roadmap).  
-- **[easycomfyui](https://github.com/bsibdev/easycomfyui)**: Simple install and launch for ComfyUI running on Ubuntu 24.04 with rocm for AMD GPUs. 
-- **[linux-scripts](https://github.com/bsibdev/linux-scripts)**
-- **[windows-scripts](https://github.com/bsibdev/windows-scripts)**
 
 ## 📫 Get in Touch  
 
