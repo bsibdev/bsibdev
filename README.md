@@ -4,7 +4,6 @@ I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-
 
 ## 📂 Featured Projects  
 
-- **[Centralized System Dashboard](https://github.com/bsibdev/centralized-system-dashboard)**: Enterprise-grade setup with Proxmox, Unraid, and automation scripts. Full documentation included (diagram, wiki, roadmap).  
 - **[Homelab](https://github.com/bsibdev/homelab)**: Enterprise-grade setup with Proxmox, Unraid, and automation scripts. Full documentation included (diagram, wiki, roadmap).  
 - **[easycomfyui](https://github.com/bsibdev/easycomfyui)**: Simple install and launch for ComfyUI running on Ubuntu 24.04 with rocm for AMD GPUs. 
 - **[linux-scripts](https://github.com/bsibdev/linux-scripts)**
