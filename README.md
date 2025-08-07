@@ -39,7 +39,6 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 
 Please reach out about:
 - Remote or Atlanta based job opportunities (mid/entry-level roles aligning with Systems Administration) [My resume](https://docs.google.com/document/d/17leaXlGL2_ZEKIPg8WbtZPvVVIl2e5er8KJLCRB5Muw/edit?usp=sharing).
-- Feedback.
 - General advice.
 
 - 📧 Email: brandonsibley.it@gmail.com
