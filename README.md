@@ -36,11 +36,6 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 ![Linux](https://img.shields.io/badge/Proxmox-Virtualization-E57000?logo=proxmox&logoColor=white&style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Container-blue) ![Ansible](https://img.shields.io/badge/Ansible-Automation-red)  
 
 ## 📫 Get in Touch  
-
-Please reach out about:
-- Remote or Atlanta based job opportunities (mid/entry-level roles aligning with Systems Administration) [My resume](https://docs.google.com/document/d/17leaXlGL2_ZEKIPg8WbtZPvVVIl2e5er8KJLCRB5Muw/edit?usp=sharing).
-- General advice.
-
 - 📧 Email: brandonsibley.it@gmail.com
 - 📞 Phone: (678) 466-0185 (Google Voice)
 - 🔗 LinkedIn: http://www.linkedin.com/in/brandon-s-sibley
