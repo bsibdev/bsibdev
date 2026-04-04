@@ -14,19 +14,19 @@ I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-
 - **Virtualization**: Proxmox node hosting 4 VMs (ansible control node, AI server, cloud gaming server, RHEL 9 Lab enivronment, Windows Server 2019 Lab environment). Using PCI passthrough with IOMMU groups to grant VMs direct hardware access to PCIe devices as needed.
 
 - **Storage**: 48TB Unraid NAS with containerized apps, serving as shared storage and backup target for multiple machines via nfs shares.  
-- **Networking**: 2.5GbE, Tailscale VPN configured for secure high-performance remote connections between devices.  
+- **Networking**: 2.5/10GbE, Tailscale VPN configured for secure high-performance remote connections between devices.  
 
 Check out my homelab repo for full documentation: [bsibdev/homelab](https://github.com/bsibdev/homelab)  ([Wiki](https://www.notion.so/Home-Lab-Wiki-1e69b3e0744e801ba6bedb01c1e6bb67?pvs=4) | [Roadmap](https://www.notion.so/1e59b3e0744e8060a732e9c81f00dc90?v=1e59b3e0744e817ea385000c8162d5bd&pvs=4))
 
 
-![homelab-diagram_github-dark](https://github.com/user-attachments/assets/227ad700-5ec3-41e1-9201-ecd54c1f9820)
+![homelab-diagram_github-dark]([https://github.com/user-attachments/assets/227ad700-5ec3-41e1-9201-ecd54c1f9820](https://github.com/user-attachments/assets/f6d6be92-1319-445b-9df0-26aa26941ea1))
 
 
 
 ## 🛠️ Skills  
 
 - **Virtualization**: Proxmox, Hyper-V, Docker
-- **System Administration**: RHEL 9, Windows Server 2019, Active Directory  
+- **System Administration**: RHEL 9, Windows Server 2019  
 - **Automation**: Bash, PowerShell, Ansible, AutoHotKey, Python
 - **Networking**: VPN, DNS, Firewalls
 - **Storage**: Unraid NAS, NFS, LVM
