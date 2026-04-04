@@ -37,5 +37,5 @@ Check out my homelab repo for full documentation: [bsibdev/homelab](https://gith
 
 ## 📫 Get in Touch  
 - 📧 Email: brandonsibley.it@gmail.com
-- 📞 Phone: (678) 466-0185 (Google Voice)
+- 📞 Phone: (678) 466-0185
 - 🔗 LinkedIn: http://www.linkedin.com/in/brandon-s-sibley
