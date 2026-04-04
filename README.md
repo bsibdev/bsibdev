@@ -19,7 +19,7 @@ I'm a [CompTIA A+ certified](https://drive.google.com/file/d/1VItPhSvEUMyp6y-bi-
 Check out my homelab repo for full documentation: [bsibdev/homelab](https://github.com/bsibdev/homelab)  ([Wiki](https://www.notion.so/Home-Lab-Wiki-1e69b3e0744e801ba6bedb01c1e6bb67?pvs=4) | [Roadmap](https://www.notion.so/1e59b3e0744e8060a732e9c81f00dc90?v=1e59b3e0744e817ea385000c8162d5bd&pvs=4))
 
 
-![homelab-diagram_github-dark]([https://github.com/user-attachments/assets/227ad700-5ec3-41e1-9201-ecd54c1f9820](https://github.com/user-attachments/assets/f6d6be92-1319-445b-9df0-26aa26941ea1))
+![homelab-diagram_github-dark]([https://github.com/user-attachments/assets/f6d6be92-1319-445b-9df0-26aa26941ea1])
 
 
 
